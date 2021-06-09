@@ -1,2 +1,16 @@
-# Team_UP
-[![Test](https://github.com/Nikolai17/Team_UP/actions/workflows/test.yml/badge.svg)](https://github.com/Nikolai17/Team_UP/actions/workflows/test.yml)
+# ПСБ Спорт [![Test](https://github.com/Nikolai17/Team_UP/actions/workflows/test.yml/badge.svg)](https://github.com/Nikolai17/Team_UP/actions/workflows/test.yml)
+Мобильное приложение, которое позволяет легко и просто создать крупные мероприятия администратором для пользователей!
+
+В свою очередь, пользователь получает уведомление с приглашением в качестве участника или болельщика. Далее, достаточно просто прийти и нажав одну кнопку, включить свою геолокацию и пробыть 50%  в зоне спортивного мероприятия, чтобы были начислены баллы!
+
+Также, внутри приложения сами сотрудники могут:
+- создавать небольшие мероприятия друг для друга (за это баллы не начисляются)
+- делиться своими достижениями в спорте , на основании которых формируется рейтинг среди всех пользователей
+
+аккаунты для доступа 
+ - admin@admin.ru 123456   Админский профиль
+ - Nikolai17@yandex.ru qwerty Клиентский профиль
+
+![1](https://user-images.githubusercontent.com/78022759/120915832-a03ea000-c6ae-11eb-93b8-cba9931e6309.jpg)
+![2](https://user-images.githubusercontent.com/78022759/120915837-a3399080-c6ae-11eb-9384-1368581036f3.jpg)
+
